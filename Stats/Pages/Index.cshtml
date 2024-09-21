@@ -1,0 +1,115 @@
+﻿@page
+@using System.Reflection.Metadata
+@model IndexModel
+@{
+    ViewData["Title"] = "Statistics";
+}
+<style>
+
+
+form{
+      display: block;
+      align-items: center;         
+      justify-content: center;     
+      width: 600px;     
+      margin-left: 250px;
+     
+}
+#alerts{
+color:  red;
+font-size: 20px;
+}
+#mainAlert{
+color:  red;
+font-size: 20px
+}
+
+#mainAlert{
+color:  red;
+font-size: 20px
+}
+
+#resultAlert{
+color: green;
+font-size: 20px;
+}
+</style>
+<div class="text-center">
+    <h1 class="display-4">Statistics</h1>
+    <p><a>Enter two or more numerical numbers and click Calculate button to get their statistics</a>.</p>
+  <form method="post" id="formElement">
+    <div class="row g-3 align-items-center">
+      <div class="col-auto">
+        <label for="inputPassword6" class="col-form-label">1st Number</label>
+      </div>
+      <div class="col-auto">
+        <input type="text" id="inputPassword6" asp-for="First" class="form-control" aria-describedby="passwordHelpInline">
+      </div>
+      <div class="col-auto">
+        <p id="alerts">@Model.FirstAlert</p>
+      </div>
+    </div>
+    <br/>
+    <br/>
+      
+    @* ************************** *@
+    <div class="row g-3 align-items-center">
+      <div class="col-auto">
+        <label for="inputPassword6" class="col-form-label">2nd Number</label>
+      </div>
+      <div class="col-auto">
+        <input type="text" id="inputPassword6" asp-for="Second" class="form-control" aria-describedby="passwordHelpInline">
+      </div>
+      <div class="col-auto">
+        <p id="alerts">@Model.SecondAlert</p>
+      </div>
+    </div>
+    <br/>
+    <br/>
+    @* ************************** *@
+    <div class="row g-3 align-items-center">
+      <div class="col-auto">
+        <label for="inputPassword6" class="col-form-label">3rd Number</label>
+      </div>
+      <div class="col-auto">
+        <input type="text" id="inputPassword6" asp-for="Third" class="form-control" aria-describedby="passwordHelpInline">
+      </div>
+      <div class="col-auto">
+        <p id="alerts">@Model.ThirdAlert</p>
+      </div>
+    </div>
+    <br/>
+    <br/>
+    @* ************************** *@
+    <div class="row g-3 align-items-center">
+      <div class="col-auto">
+        <label for="inputPassword6" class="col-form-label">4th Number</label>
+      </div>
+      <div class="col-auto">
+        <input type="text" id="inputPassword6" asp-for="Fourth" class="form-control" aria-describedby="passwordHelpInline">
+      </div>
+      <div class="col-auto">
+        <p id="alerts">@Model.FourthAlert</p>
+      </div>
+    </div>
+    <br/>
+    <br/>
+    @* ************************** *@
+    <div class="row g-3 align-items-center">
+      <div class="col-auto">
+        <button type="submit" class="btn btn-primary">Calculate</button>
+      </div>
+      <br/>
+      <br/>
+    </div>
+    <div class="col-auto">
+      <p id="mainAlert">@Model.BottomAlert</p>
+    </div>
+      
+      
+  </form>
+  <p id="resultAlert">
+    @Model.ResultAlert
+  </p>
+ 
+</div>

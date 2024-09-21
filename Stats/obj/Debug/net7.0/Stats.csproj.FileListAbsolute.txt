@@ -1,0 +1,62 @@
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/bin/Debug/net7.0/appsettings.Development.json
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/bin/Debug/net7.0/appsettings.json
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/bin/Debug/net7.0/Stats.staticwebassets.runtime.json
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/bin/Debug/net7.0/Stats
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/bin/Debug/net7.0/Stats.deps.json
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/bin/Debug/net7.0/Stats.runtimeconfig.json
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/bin/Debug/net7.0/Stats.dll
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/bin/Debug/net7.0/Stats.pdb
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/Stats.csproj.AssemblyReference.cache
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/Stats.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/Stats.AssemblyInfoInputs.cache
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/Stats.AssemblyInfo.cs
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/Stats.csproj.CoreCompileInputs.cache
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/Stats.MvcApplicationPartsAssemblyInfo.cache
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/Stats.RazorAssemblyInfo.cache
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/Stats.RazorAssemblyInfo.cs
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/staticwebassets/msbuild.Stats.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/staticwebassets/msbuild.build.Stats.props
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Stats.props
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Stats.props
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/staticwebassets.build.json
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/staticwebassets.development.json
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/scopedcss/bundle/Stats.styles.css
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/scopedcss/projectbundle/Stats.bundle.scp.css
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/Stats.dll
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/refint/Stats.dll
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/Stats.pdb
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/Stats.genruntimeconfig.cache
+/Users/victoramisi/Downloads/School work/Fall 2024/Stats/Stats/obj/Debug/net7.0/ref/Stats.dll
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/bin/Debug/net7.0/appsettings.Development.json
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/bin/Debug/net7.0/appsettings.json
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/bin/Debug/net7.0/Stats.staticwebassets.runtime.json
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/bin/Debug/net7.0/Stats
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/bin/Debug/net7.0/Stats.deps.json
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/bin/Debug/net7.0/Stats.runtimeconfig.json
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/bin/Debug/net7.0/Stats.dll
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/bin/Debug/net7.0/Stats.pdb
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/Stats.csproj.AssemblyReference.cache
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/Stats.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/Stats.AssemblyInfoInputs.cache
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/Stats.AssemblyInfo.cs
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/Stats.csproj.CoreCompileInputs.cache
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/Stats.MvcApplicationPartsAssemblyInfo.cache
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/Stats.RazorAssemblyInfo.cache
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/Stats.RazorAssemblyInfo.cs
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/staticwebassets/msbuild.Stats.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/staticwebassets/msbuild.build.Stats.props
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Stats.props
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Stats.props
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/staticwebassets.build.json
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/staticwebassets.development.json
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/scopedcss/bundle/Stats.styles.css
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/scopedcss/projectbundle/Stats.bundle.scp.css
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/Stats.dll
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/refint/Stats.dll
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/Stats.pdb
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/Stats.genruntimeconfig.cache
+/Users/victoramisi/Downloads/School work/Fall 2024/Web Prog Lang/Stats/Stats/obj/Debug/net7.0/ref/Stats.dll
